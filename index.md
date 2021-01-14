@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-![](https://github.com/Macrid/Portfolio/blob/gh-pages/frog.jpg)
+![](/frog.jpg)
 
 You can use the [editor on GitHub](https://github.com/Macrid/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
