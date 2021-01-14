@@ -1,4 +1,4 @@
-# Erik Persson Portfolio
+## Erik Persson Portfolio
 
 ![](frog.jpg)
 
