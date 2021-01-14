@@ -2,7 +2,7 @@
 
 ![](frog.jpg)
 
-Någon liten text om mig
+`Någon liten text om mig`
 
 # Projects
 
@@ -11,8 +11,8 @@ Någon liten text om mig
 Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)
 
 ### *Sunsetty*
-![](frog.jpg)
-Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)
+![](/images/sunsettycomplete.png)
+Check out on [Apple App Store](https://apps.apple.com/us/app/sunsetty/id1547128188) and [GitHub](https://github.com/Macrid/sunsetter)
 
 ### *PixelFighters*
 ![](frog.jpg)
