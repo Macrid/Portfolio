@@ -4,7 +4,7 @@
 
 Någon liten text om mig
 
-## Projects
+# Projects
 
 ### *ProgPics*
 ![](frog.jpg)
