@@ -1,12 +1,37 @@
-## Welcome to GitHub Pages
+# Erik Persson Portfolio
 
-<img src="/frog.jpg" width="200">
+![](frog.jpg)
+
+Någon liten text om mig
+
+## Projects
+
+### *ProgPics*
+![](frog.jpg)
+Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)
+
+### *Sunsetty*
+![](frog.jpg)
+
+### *PixelFighters*
+![](frog.jpg)
+
+### *BaZug*
+![](frog.jpg)
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Macrid/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Projects
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
