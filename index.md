@@ -7,18 +7,20 @@ Någon liten text om mig
 # Projects
 
 ### *ProgPics*
-![](frog.jpg)
+![](/images/completeprog.png)
 Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)
 
 ### *Sunsetty*
 ![](frog.jpg)
+Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)
 
 ### *PixelFighters*
 ![](frog.jpg)
+Check out [GitHub](https://github.com/Macrid/ProgPics)
 
 ### *BaZug*
 ![](frog.jpg)
-
+Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)
 
 
 
