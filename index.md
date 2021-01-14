@@ -1,10 +1,6 @@
 ## Welcome to GitHub Pages
 
-<p align="center" width="100%">
-    <img width="30%" src="/frog.jpg"> 
-    <img width="30%" src="/frog.jpg"> 
-    <img width="30%" src="/frog.jpg"> 
-</p>
+<img src="/frog.jpg" width="200">
 
 You can use the [editor on GitHub](https://github.com/Macrid/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
