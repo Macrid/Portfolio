@@ -8,19 +8,19 @@
 
 ### *ProgPics*
 ![](/images/completeprog.png)
-Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)
+_Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)_
 
 ### *Sunsetty*
 ![](/images/sunsettycomplete.png)
-Check out on [Apple App Store](https://apps.apple.com/us/app/sunsetty/id1547128188) and [GitHub](https://github.com/Macrid/sunsetter)
+_Check out on [Apple App Store](https://apps.apple.com/us/app/sunsetty/id1547128188) and [GitHub](https://github.com/Macrid/sunsetter)_
 
 ### *PixelFighters*
-![](frog.jpg)
-Check out [GitHub](https://github.com/Macrid/ProgPics)
+![](/images/pixelfighterscomplete.png)
+_Check out [GitHub](https://github.com/ChaacNado/PixelFighters)_
 
 ### *BaZug*
 ![](frog.jpg)
-Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)
+_Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)_
 
 
 
