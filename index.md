@@ -19,8 +19,8 @@ _Check out on [Apple App Store](https://apps.apple.com/us/app/sunsetty/id1547128
 _Check out [GitHub](https://github.com/ChaacNado/PixelFighters)_
 
 ### *BaZug*
-![](frog.jpg)
-_Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)_
+![](/images/bazugcomplete.png)
+_Check out on [Apple App Store](https://apps.apple.com/us/app/bazug/id1546709763) and [GitHub](https://github.com/pontuscroneld/GruppSpelet)_
 
 
 
