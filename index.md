@@ -16,9 +16,9 @@ _Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945
 A simple game for iOS in which you guess when the sun rises or sets in various cities around the world.
 
 Design made in **SwiftUI** and the backend made using the following **RESTful APIs**: \
-GeoDB Cities API by http://geodb-cities-api.wirefreethought.com/ \
-Sunset and sunrise times API by https://sunrise-sunset.org/api \
-Time Zone Database by https://timezonedb.com/ 
+- GeoDB Cities API by http://geodb-cities-api.wirefreethought.com/ \
+- Sunset and sunrise times API by https://sunrise-sunset.org/api \
+- Time Zone Database by https://timezonedb.com/ 
 ![](/images/sunsettycomplete.png)
 _Check out on [Apple App Store](https://apps.apple.com/us/app/sunsetty/id1547128188) and [GitHub](https://github.com/Macrid/sunsetter)_
 
@@ -28,11 +28,13 @@ A Super Smash Bros inspired multiplayer fighting game I was a part of developing
 _Check out [GitHub](https://github.com/ChaacNado/PixelFighters)_
 
 ### *BaZug*
+BaZug is a dragNdrop iPad game made for young children. The main purpose of the project was learning to work as team of developers on a single mobile app.
 ![](/images/bazugcomplete.png)
 _Check out on [Apple App Store](https://apps.apple.com/us/app/bazug/id1546709763) and [GitHub](https://github.com/pontuscroneld/GruppSpelet)_
 
 
 
+_**Android/Kotlin** projects coming soon..._
 
 
 
