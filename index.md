@@ -1,6 +1,6 @@
 ## Erik Persson Portfolio
 
-![](face.jpg)
+![](/images/face.jpg)
 
 `Någon liten text om mig`
 
