@@ -6,15 +6,24 @@
 
 # Projects
 
+
 ### *ProgPics*
+ProgPics is an iOS app where the user makes their own categories for the different things they want to track and visualize their progress in pictures. The app is made with Swift and **UIkit** while using **Google Firebase** as a backend.
 ![](/images/completeprog.png)
 _Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)_
 
 ### *Sunsetty*
+A simple game for iOS in which you guess when the sun rises or sets in various cities around the world.
+
+Design made in **SwiftUI** and the backend made using the following **RESTful APIs**:
+GeoDB Cities API by http://geodb-cities-api.wirefreethought.com/
+Sunset and sunrise times API by https://sunrise-sunset.org/api
+Time Zone Database by https://timezonedb.com/
 ![](/images/sunsettycomplete.png)
 _Check out on [Apple App Store](https://apps.apple.com/us/app/sunsetty/id1547128188) and [GitHub](https://github.com/Macrid/sunsetter)_
 
 ### *PixelFighters*
+A Super Smash Bros inspired multiplayer fighting game I was a part of developing as a group school project at Malmö university game development program. The game is made with C# and MonoGame. The main focus during the project was learning common system developement practices such as **agile developement**, working in **sprints** and constant feedback from peers acting as our end user.
 ![](/images/pixelfighterscomplete.png)
 _Check out [GitHub](https://github.com/ChaacNado/PixelFighters)_
 
