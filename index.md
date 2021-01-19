@@ -1,6 +1,6 @@
 ## Erik Persson Portfolio
 
-![face](/images/face.jpg){width="300px"}
+![face](/images/face.jpg)
 
 `Någon liten text om mig`
 
