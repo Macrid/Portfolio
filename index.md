@@ -4,7 +4,7 @@
 # About me
 Hi!  
 I'm a developer from southern Sweden. I have a big interest in technology and games. I have experience in using **C#**, **MonoGame** and **agile development** from studies at Malmö university. Currently I'm studying **iOS** and **Android** development at Malmö yrkeshögskola.  
-_Find me on [LinkedIn](linkedin.com/in/erik-persson-537b45203) and [GitHub](https://github.com/Macrid)_
+_Find me on [LinkedIn](https://linkedin.com/in/erik-persson-537b45203) and [GitHub](https://github.com/Macrid)_
   
 # Projects
   
