@@ -1,12 +1,14 @@
 # Erik Persson Portfolio
 
 ![face](/images/face.jpg)
-
-`Någon liten text om mig`
-
+# About me
+Hi!  
+I'm a developer from southern Sweden. I have a big interest in technology and games. I have experience in using C#, MonoGame and agile development from studies at Malmö university. Currently I'm studying iOS and Android development at Malmö yrkeshögskola.
+_Find me on [LinkedIn](linkedin.com/in/erik-persson-537b45203) and [GitHub](https://github.com/Macrid)_
+  
 # Projects
   
-
+  
 ### *ProgPics*
 ProgPics is an iOS app where the user makes their own categories for the different things they want to track and visualize their progress in pictures. The app is made with Swift and **UIkit** while using **Google Firebase** as a backend.
 ![](/images/completeprog.png)
