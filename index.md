@@ -16,14 +16,14 @@ ProgPics is an iOS app where the user makes their own categories for the differe
 _Check out on [Apple App Store](https://apps.apple.com/us/app/progpics/id1539945683) and [GitHub](https://github.com/Macrid/ProgPics)_
 
 ### *Sunsetty*
-A simple game for iOS in which you guess when the sun rises or sets in various cities around the world.
+A simple game for iOS and Android in which you guess when the sun rises or sets in various cities around the world.
 
-Design made in **SwiftUI** and the backend made using the following **RESTful APIs**:  
+Design made in **SwiftUI** and **XML** and the backend made using the following **RESTful APIs**:  
   - GeoDB Cities API by http://geodb-cities-api.wirefreethought.com/  
   - Sunset and sunrise times API by https://sunrise-sunset.org/api  
   - Time Zone Database by https://timezonedb.com/ 
 ![](/images/sunsettycomplete.png)
-_Check out on [Apple App Store](https://apps.apple.com/us/app/sunsetty/id1547128188) and [GitHub](https://github.com/Macrid/sunsetter)_
+_Check out on [Apple App Store](https://apps.apple.com/us/app/sunsetty/id1547128188), [Google Play](https://play.google.com/store/apps/details?id=se.erikpersson.sunsettyandroid&gl=SE) and [GitHub](https://github.com/Macrid/sunsetter)_
 
 ### *PixelFighters*
 A Super Smash Bros inspired multiplayer fighting game I was a part of developing as a group school project at Malmö university game development program. The game is made with **C#** and **MonoGame**. The main focus during the project was learning common system developement practices such as **agile developement**, working in **sprints** and constant feedback from peers acting as our end user.
@@ -36,5 +36,3 @@ BaZug is a dragNdrop iPad game made for young children. The main purpose of the 
 _Check out on [Apple App Store](https://apps.apple.com/us/app/bazug/id1546709763) and [GitHub](https://github.com/pontuscroneld/GruppSpelet)_
   
   
-  
-_**Android/Kotlin** projects coming soon..._
